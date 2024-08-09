@@ -1,6 +1,6 @@
 # GTA Mod BR
 
-Bem-vindo ao repositório do **GTA Mod BR**! Este projeto transforma o clássico GTA San Andreas em uma experiência autêntica e imersiva no cenário brasileiro.
+Bem-vindo ao repositório do **GTA Mod BR**! Este projeto transforma o clássico GTA San Andreas em uma experiência autêntica e imersiva no cenário brasileiro. 
 
 ## 📋 Descrição
 
