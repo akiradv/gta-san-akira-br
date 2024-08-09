@@ -35,7 +35,7 @@ Para acompanhar todas as novidades e atualizações sobre o mod, acesse o canal 
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes. 
 
 ## 👥 Contato
 
