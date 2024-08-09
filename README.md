@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do **GTA Mod BR**! Este projeto transforma o clássico GTA San Andreas em uma experiência autêntica e imersiva no cenário brasileiro. 
 
+---
+
 ## 📋 Descrição
 
 O **GTA Mod BR** adapta Los Santos para refletir a cultura, os veículos, as músicas e os cenários típicos do Brasil. Com novos personagens, missões e uma atmosfera única, este mod proporciona uma jogabilidade renovada e envolvente para os fãs do jogo.
