@@ -40,7 +40,7 @@ Fique por dentro das últimas novidades e atualizações do mod no nosso canal d
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir o conteúdo, respeitando os termos da licença.
+Este projeto está licenciado sob a [GNU General Public License(GPL-3.0 license)](https://www.gnu.org/licenses/gpl-3.0.html). Sinta-se à vontade para utilizar, modificar e distribuir o conteúdo, respeitando os termos da licença.
 
 ## 👥 Contato
 
