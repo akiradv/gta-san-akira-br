@@ -1,0 +1,8 @@
+{
+    "vscord.status.state.text.debugging": "Desbugando: {workspace}",
+    "vscord.status.state.text.editing": "Desenvolvendo: {file_name}{file_extension}:{current_line}:{current_column}",
+    "vscord.status.state.text.viewing": "Vendo: {file_name}{file_extension}",
+    "vscord.status.details.text.notInFile": "Em nenhum arquivo.",
+    "vscord.status.details.text.viewing": "Em: {workspace} {problems}",
+    "vscord.status.details.text.editing": "Em: {workspace} {problems}"
+}
