@@ -19,7 +19,7 @@ O **GTA Mod BR** reimagina Los Santos com um toque brasileiro, trazendo para o j
 
 ## 📦 Instalação
 
-1. **Baixe os arquivos do mod**: Faça o download dos arquivos mais recentes do mod através do [link de download](#).
+1. **Baixe os arquivos do mod**: Faça o download dos arquivos mais recentes do mod através do [link de download](https://github.com/akiradv/gta-san-akira-br/releases).
 2. **Extraia os arquivos**: Descompacte o conteúdo do arquivo na pasta do GTA San Andreas.
 3. **Substitua os arquivos originais**: Certifique-se de fazer um backup dos arquivos originais antes de substituí-los pelos do mod.
 4. **Inicie o jogo**: Agora, você está pronto para explorar Los Santos como nunca antes!
