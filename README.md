@@ -38,7 +38,7 @@ Quer contribuir para melhorar o **GTA Mod BR**? Siga os passos abaixo:
 
 Fique por dentro das últimas novidades e atualizações do mod no nosso canal dedicado no Discord: [GTA](https://discord.com/invite/BcHmshGDKt).
 
-## 📄 Licença
+[NOTE!]## 📄 Licença
 
 Este projeto está licenciado sob a [GNU General Public License(GPL-3.0 license)](https://www.gnu.org/licenses/gpl-3.0.html). Sinta-se à vontade para utilizar, modificar e distribuir o conteúdo, respeitando os termos da licença.
 
